@@ -14,13 +14,13 @@ I cleaned the data and created visualizations to better understand trends and an
 ## Visualizations
 
 ### Chart 1
-<img src="/Comp110project2/static/imgs/PNG image.png" width="500"/>
+<img src="static/imgs/chart1.png"width="500"/>
 
 ### Chart 2
-<img src="/Comp110project2/static/imgs/PNG image 2.png" width="500"/>
+<img src="static/imgs/chart2.png" width="500"/>
 
 ### Chart 3
-<img src="/Comp110project2/static/imgs/PNG image 3.png" width="500"/>
+<img src="static/imgs/chart3.png" width="500"/>
 
 ---
 
